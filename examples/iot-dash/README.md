@@ -4,15 +4,15 @@
 
 This Rainmeter Skin is based on the [illustro design](https://github.com/rainmeter/rainmeter/blob/master/Build/Skins/illustro/System/System.ini) by Poiru. It's based on the MqttClientPlugin. 
 
-![enter image description here](https://joszuijderwijk.nl/wp-content/uploads/2021/04/rainmeter-header.png)
+![](https://imgur.com/a/djY4kyV)
 
 ## Features
 This skin displays the state of your IoT devices. The following states are included:
 
-🟢 Online
-:red_circle:  Offline
-:large_blue_circle:  Active
-:black_circle:  No connection
+🟢  Online
+🔴  Offline
+🔵  Active
+⚪  No connection
 
 It's also possible to toggle the state of your devices (online <-> active) by clicking on them.
 
